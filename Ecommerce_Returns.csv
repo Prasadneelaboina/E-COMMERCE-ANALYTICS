@@ -1,0 +1,3 @@
+Return_ID,Order_ID,Return_Date,Return_Reason,Refund_Amount
+7001,1003,2024-02-15,Damaged Product,870
+7002,1006,2024-03-18,Wrong Item,975
